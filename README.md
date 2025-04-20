@@ -4,4 +4,7 @@
 ### Le work-flow de POWER BI
 ![image](https://github.com/user-attachments/assets/6531971d-7063-4101-be71-61ad92bc01ca)
 
-
+### POWER QUERY 
+- Collecte des données : Importation de données de differents sources (bases de données, fichiers Excel/CSV, services en ligne, API)
+- Transformation des données : netteoyagent et restructurisation les données en mettant en avant de la creation de nouvelles colonnes (Feature engineer) en utilisant le **langage M** aussi le filtrage pour assurer...
+- 
