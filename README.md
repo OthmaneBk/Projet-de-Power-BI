@@ -20,6 +20,7 @@
 ### Le langage M 
 <img width="749" alt="image" src="https://github.com/user-attachments/assets/9b2a97e3-e248-4bee-bf71-361bdaa7d694" />
 
+
 - Cette image illustre la création d'une nouvelle colonne en combinant Units Sold et Sale Price, ceci est très utile pour l'enrichissement de dataset *Montant vente = Sheet1[Units Sold]Sheet1[Sale Price]
 
 ### Le langage DAX
