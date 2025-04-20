@@ -21,6 +21,7 @@
 <img width="753" alt="image" src="https://github.com/user-attachments/assets/04128645-39bd-450c-856c-abcfae067b27" />
 <br/>
 <br/>
+
 - Cette image illustre la création d'une nouvelle colonne en combinant Units Sold et Sale Price, ceci est très utile pour l'enrichissement de dataset ***Montant vente = Sheet1[Units Sold]Sheet1[Sale Price]***
 
 ### Le langage DAX
