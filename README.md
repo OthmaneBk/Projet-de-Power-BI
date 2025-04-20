@@ -6,7 +6,7 @@
 
 ### 1- POWER QUERY 
 - Collecte des données : Importation de données de différentes sources (bases de données, fichiers Excel/CSV, services en ligne, API)
-- Transformation des données : nettoyage et restructuration des données en mettant en avant la création de nouvelles colonnes (Feature engineering) en utilisant le ***langage M*** (Préparation de données ETL (Extract et Transform, Load)), ainsi que le filtrage pour assurer la qualité des données
+- Transformation des données : nettoyage et restructuration des données en mettant en avant la création de nouvelles colonnes (Feature engineering) en utilisant le ***langage M*** (Préparation de données ETL (Extract, Transform et Load)), ainsi que le filtrage pour assurer la qualité des données
 
 ### 2- Modélisation
 - Cette étape repose sur la création de relations entre les tables (modèle en étoile ou en flocon) et élaboration de mesures et colonnes calculées avec le ***langage DAX*** (Data Analysis Expressions (effectuer des calculs statistiques sur les données ))
