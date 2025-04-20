@@ -19,9 +19,8 @@
 
 ### Le langage M 
 <img width="888" alt="image" src="https://github.com/user-attachments/assets/2500ff5d-d931-43fa-a161-168ef9623c1a" />
-<br/>
 
-- Cette image illustre la création d'une nouvelle colonne en combinant Units Sold et Sale Price, ceci est très utile pour l'enrichissement de dataset *Montant vente = Sheet1[Units Sold]Sheet1[Sale Price]
+- Cette image illustre la création d'une nouvelle colonne en combinant Units Sold et Sale Price, ceci est très utile pour l'enrichissement de dataset ***Montant vente = Sheet1[Units Sold]Sheet1[Sale Price]**
 
 ### Le langage DAX
 - ***Mesure 1 = MAX(Sheet1[Montant vente])*** cette requête nous retourne la valeur maximale de la colonne Montant vente
